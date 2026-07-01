@@ -1,4 +1,4 @@
-# Olist E-Commerce - Customer Lifecycle & Cohort Analytics
+# Olist-Ecommerce-AI-Insights-Bot
 
 ## 📌 Project Overview
 This repository contains an end-to-end data analytics project focused on analyzing customer purchasing behavior, segmentation, and long-term retention for **Olist**, the largest e-commerce department store platform in Brazil. 
@@ -51,6 +51,8 @@ Tracks monthly customer cohorts across an 18-month cycle. While customer acquisi
 * olist_analytics_queries.sql - SQL script containing database aggregations and table setups.
 * Olist_RFM_Cohort_Analysis.ipynb - Python notebook with the data pipeline, data cleaning, and RFM calculation.
 * Project Report.pdf - Detailed executive summary and business report of the project.
+* app.py - Streamlit Python script powering the AI insights chatbot application.
+* requirements.txt - List of Python dependencies (Streamlit) required to run the chatbot.
 * README.md - Comprehensive documentation and landing page of the project.
 
 🌐 Data Source Reference

@@ -5,7 +5,7 @@ This repository contains an end-to-end data analytics project focused on analyzi
 
 By leveraging **RFM (Recency, Frequency, Monetary) Segmentation** and **Cohort Retention Analysis**, this project delivers data-driven insights and an interactive executive dashboard designed to drive strategic business growth.
 
-## 📊 Dashboard Preview]
+## 📊 Dashboard Preview
 ![Dashboard](Deshboard.png)
 ---
 
